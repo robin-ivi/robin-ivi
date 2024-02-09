@@ -2,7 +2,7 @@
 - 👀 I’m interested in developed a front and backend code
 - 🌱 I’m currently learning laravel and react
 - 💞️ I’m looking to collaborate on react technology
-- 📫 How to reach me krishna.ommune@gmail.com
+- 📫 How to reach me mishrarabin18@gmail.com
 
 <!---
 krishna-ommune/krishna-ommune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
