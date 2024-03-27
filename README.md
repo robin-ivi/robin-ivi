@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Associate Software Developer at <a href="https://www.ommune.com/">Ommune
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</em></p>
+</em></p> 
 
 ### 📫 Like to meet me?
 
