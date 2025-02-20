@@ -34,6 +34,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 [![roadmap.sh](https://roadmap.sh/card/tall/65799ebc5145316d25f9978f?variant=dark)](https://roadmap.sh)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=robin-ivi&theme=onedark)](https://github.com/robin-ivi/github-profile-trophy)
 
 
 ```text
