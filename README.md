@@ -31,6 +31,11 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
  > 
 **I'm an Early 🐤** 
 
+
+[![roadmap.sh](https://roadmap.sh/card/tall/65799ebc5145316d25f9978f?variant=dark)](https://roadmap.sh)
+
+
+
 ```text
 🌞 Morning                758 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
 🌆 Daytime                1767 commits        ██████████░░░░░░░░░░░░░░░   40.67 % 
