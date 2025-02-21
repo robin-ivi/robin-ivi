@@ -30,7 +30,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 krishna-ommune/krishna-ommune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Hidden Visitor Count](https://github-profile-views.onrender.com/)
+![🎭](https://github-profile-views.onrender.com/)
 Welcome to my personal GitHub repository! Here you will find a collection of projects, code snippets, and other resources that reflect my interests, skills, and journey in the world of software development. Feel free to explore, contribute, or get in touch with me if you have any questions or collaboration ideas.
 
 About Me
