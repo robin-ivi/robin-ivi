@@ -10,7 +10,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <a href="mailto:mishrarabin18@gmail.com" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-- 👀 Profile View :- [![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=visitors&url=https%3A%2F%2Fgithub-profile-views.onrender.com%2Fcount)](https://github-profile-views.onrender.com/)
+
+- 👀 Profile View :-  ![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=visitors&url=https%3A%2F%2Fgithub-profile-views.onrender.com%2Fcount)
 - 👋 Hi, I’m @krishna mishra
 - 👀 I’m interested in developed a front and backend code
 - 🌱 I’m currently learning laravel, vue and react
@@ -29,7 +30,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 krishna-ommune/krishna-ommune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+![Hidden Visitor Count](https://github-profile-views.onrender.com/)
 Welcome to my personal GitHub repository! Here you will find a collection of projects, code snippets, and other resources that reflect my interests, skills, and journey in the world of software development. Feel free to explore, contribute, or get in touch with me if you have any questions or collaboration ideas.
 
 About Me
