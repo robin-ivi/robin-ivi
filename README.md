@@ -20,7 +20,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 **🐱 My GitHub Data** 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/65799ebc5145316d25f9978f?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/65799ebc5145316d25f9978f?variant=dark&roadmaps=frontend%2Cjavascript%2Chtml%2Creact)](https://roadmap.sh)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=robin-ivi&theme=onedark)](https://github.com/robin-ivi/github-profile-trophy)
 
