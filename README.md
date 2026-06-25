@@ -45,7 +45,7 @@ Email: [mishrarabin18@gmail.com]
 
 LinkedIn: [https://www.linkedin.com/in/robin-ivi/]
 
-Codepen: [https://codepen.io/ErRobin]
+Codepen: [https://codepen.io/robin-ivi]
 
 Contributions
 I welcome contributions, feedback, and suggestions for my projects. If you find any issues or improvements, please feel free to open an issue or submit a pull request. Let's learn and grow together!
